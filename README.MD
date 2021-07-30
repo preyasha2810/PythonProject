@@ -12,7 +12,7 @@
 ![DataAdded](https://user-images.githubusercontent.com/45910402/127720230-6785b561-5ce9-438a-a73a-b31e3d7cdfdf.PNG)
 - Data Deleted
 ![DataDeleted](https://user-images.githubusercontent.com/45910402/127720231-d721727b-da2a-494d-ad09-196be1ba6227.PNG)
--Data Edited
+- Data Edited
 ![DataEdited](https://user-images.githubusercontent.com/45910402/127720232-23ec6f04-a02d-4bbd-9c25-1bfa9df1b560.PNG)
 - Delete Request
 ![DeleteRequest](https://user-images.githubusercontent.com/45910402/127720233-6b12ff0a-0b99-4ab4-bf83-f3c1a2c2461c.PNG)
