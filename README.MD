@@ -20,5 +20,6 @@
 ![PostRequest](https://user-images.githubusercontent.com/45910402/127675308-3eeef270-19f8-41d4-9038-78c11e8d97c5.PNG)
 ## Put Request
 ![PutRequest](https://user-images.githubusercontent.com/45910402/127675309-d8a94e49-6512-476c-a457-f2ac95692f95.PNG)
-
+## Document link
+[Snapshot File.docx](https://github.com/preyasha2810/PythonProject/files/6908539/Snapshot.File.docx)
 
